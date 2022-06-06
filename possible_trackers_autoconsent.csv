@@ -2,7 +2,7 @@ CNAME,count,company,function,in blocklist?
 cloudfront.net.,3178,Amazon Cloudfront,CDN,yes
 b-cdn.net.,532,bunny CDN,CDN,yes
 kxcdn.com.,491,proInity GmbH,Swiss data processing and hosting company,yes
-privacy-mgmt.com.,291,unknown,CDN,no
+privacy-mgmt.com.,291,unknown,Consent Management Platform,no
 akamai.net.,288,akamai,CDN,yes
 nodes.hypernode.io.,278,hypernode,hosting platform,no
 dscb.akamaiedge.net.,198,akamai,CDN,yes
